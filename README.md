@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 Alex Rus
 =========================
 
-My name is Alex Rus and I am currently a Business Systems Anaylst at Point32Health (Havard Pilgrim Health Care & Tufts Health Plan). I recently graduated from Worcester Polytechnic Insititute with a B.S. in Computer Science and minor in Data Science. I have always enjoyed problem solving and expanding my knowledge in the field of computer science. Over the years I have completed numerous projects using all types of technologies and frameworks, but I am always looking for more!
+My name is Alex Rus and I am currently a Business Systems Anaylst at Point32Health. I recently graduated from Worcester Polytechnic Insititute with a B.S. in Computer Science and minor in Data Science. I have always enjoyed problem solving and expanding my knowledge in the field of computer science. Over the years I have completed numerous projects using all types of technologies and frameworks, but I am always looking for more!
 *   👀 I’m interested in physics simulations, machine learning, and mobile development. 
 *   🧠  I'm currently learning Rust
 
